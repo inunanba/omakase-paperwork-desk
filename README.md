@@ -71,4 +71,4 @@ Meta Llama 3.2 3B Instruct (`llama3.2:3b`) runs locally via Ollama on 127.0.0.1.
 ## License
 
 - Original code in this repository: MIT, see [LICENSE](LICENSE).
-- No model weights are included. Llama 3.2 is licensed under the Llama 3.2 Community License, Copyright © Meta Platforms, Inc. All Rights Reserved. Use of the model is subject to the [Llama 3.2 Community License](https://github.com/meta-llama/llama-models/blob/main/models/llama3_2/LICENSE) and Meta's Acceptable Use Policy.
+- No model weights are included. The MIT license covers only this repository's code, not Meta Llama models. Use of Llama 3.2 is governed by the [Llama 3.2 Community License](https://github.com/meta-llama/llama-models/blob/main/models/llama3_2/LICENSE) (Copyright © Meta Platforms, Inc. All Rights Reserved) and Meta's Acceptable Use Policy.
